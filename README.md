@@ -1,3 +1,7 @@
+Steps to run the script:- 
+
+I have used the tools Selenium.
+
 1.) Install Python
 Make sure you have Python 3.12 or higher installed.
 Check with:
